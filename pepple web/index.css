@@ -1,0 +1,22 @@
+body{
+    background-color: turquoise;
+}
+#divM{
+    display: flex;
+    border: 2px dashed;
+    margin-right: 1290px;
+}
+
+#div1{
+    width: 170px;
+    height: 300px;
+    margin: 10px;
+    margin-right: 0px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 10px;
+    margin-left: 0px;
+}

@@ -1,0 +1,48 @@
+body{
+    background-color: skyblue;
+}
+.parent{
+    background-color: white;
+    display: flex;
+}
+#child1{
+    border: 2px dashed;
+    flex: 1;
+    padding: 10px;
+    padding-top: 0px;
+    margin: 10px;
+    height: 600px;
+
+}
+#i1{
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+    margin-left: 50px;
+}
+#i2{
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+    margin-left: 60px;
+}
+.child23{
+    flex: 1;
+}
+#child2{
+    border: 2px dotted;
+    padding: 10px;
+    padding-top: 0px;
+    margin: 10px ;
+    margin-bottom: 20px;
+    height: 282.5px;
+}
+#child3{
+    border: 2px dotted;
+    padding: 10px;
+    padding-top: 0px;
+    margin: 10px;
+    margin-top: 20px;
+    height: 282.5px;
+
+}

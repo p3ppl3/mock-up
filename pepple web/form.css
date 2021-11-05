@@ -1,0 +1,28 @@
+body{
+    background-color: skyblue;
+}
+fieldset{
+    background-color: #ffffff;
+    width: 20%;
+    margin-left: 39%;
+}
+legend{
+    background-color: skyblue;
+    margin-left: 22%;
+    font-weight: bold;
+    color: white;
+}
+input{
+    width: 46.8%;
+    text-align: center;
+}
+#submit{
+    background-color: skyblue;
+    width: 100%;
+    border-radius: 10%;
+}
+#iagree{
+    width:initial;
+    margin-left: 35%;
+}
+div; p 
